@@ -27,7 +27,7 @@
 ### Installation:
 1. If you are using android 12 or higher then first disable phantom process killer [Tutorial](https://termux.xyz/how-to-fix-termux-error-process-completed-signal-9-press-enter/)
 2. Install [Termux](https://termux.com) apk from [HERE](https://f-droid.org/en/packages/com.termux/)
-3. Now copy pest this in termux 👇
+3. Now copy paste this in termux  👇
 4. 
    ```
    curl -Lf https://raw.githubusercontent.com/sabamdarif/gnome-in-termux/main/setup.sh -o setup.sh ; bash setup.sh
